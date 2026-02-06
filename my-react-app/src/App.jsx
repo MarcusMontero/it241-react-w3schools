@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>Hello IT241!</h1>
+      <h1>Hello IT241 from Vercel.com</h1>
     </div>
   );
 }
